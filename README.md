@@ -3,7 +3,7 @@
 ![Django Rest Framework](https://img.shields.io/badge/Django%20Rest%20Framework-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-# Мини проект «Курс доллара к рублю»
+# Мини-проект «Курс доллара к рублю»
 
 По запросу отображает актуальный курс доллара к рублю. Также показывает 10 последних запросов.
 
@@ -61,3 +61,7 @@ python manage.py runserver
 ## После запуска переходим по этой ссылке:
 
 http://127.0.0.1:8000/get_current_usd/
+
+## Автор мини-проекта
+
+[Anastas Danielian](https://github.com/AnastasDan)
